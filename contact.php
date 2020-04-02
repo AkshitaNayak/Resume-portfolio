@@ -2,7 +2,7 @@
     $visitor_email = $_POST['email'];
     $message = $_POST['message'];
 
-    // $email_from = 'nayakakshita5@gmail.com'; yaha kya dalte hai? thik to likhi hai pakka?
+    // $email_from = 'nayakakshita5@gmail.com'; 
     $email_subject = "New form Submission";
     $email_body = "User Email : $visitor_email.\n".
                   "User Message : $message.\n";
