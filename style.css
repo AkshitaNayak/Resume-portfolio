@@ -1,5 +1,6 @@
 *{
     scroll-behavior: smooth;
+    overflow-x : hidden;
 }
 body{
     background-image: url(images/bg\ \(2\).jpg);
