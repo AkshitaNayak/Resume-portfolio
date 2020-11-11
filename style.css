@@ -1,6 +1,5 @@
 *{
     scroll-behavior: smooth;
-    overflow-x : hidden;
 }
 body{
     background-image: url(images/bg\ \(2\).jpg);
@@ -90,7 +89,7 @@ body{
     margin-bottom: -200px;
 }
 #name{
-    font-size: 100px;
+    font-size: 90px;
     text-align: center;
 }
 
